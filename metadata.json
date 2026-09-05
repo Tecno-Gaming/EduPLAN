@@ -1,0 +1,6 @@
+{
+  "name": "EduPLAN",
+  "description": "Öğrenciler için profesyonel ödev takip ve ajanda uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
